@@ -36,7 +36,7 @@ DataEase 是开源的数据可视化分析工具，帮助用户快速分析数�
   <img src="https://dataease.io/images/dataSource/mysql.png" alt="mysql" border="0" width="155" height="107"/>
   <img src="https://dataease.io/images/dataSource/oracle.jpg" alt="oracle" border="0" width="155" height="107"/>
   <img src="https://dataease.io/images/dataSource/sqlservel.jpg" alt="sqlserver" border="0" width="155" height="107"/>
-  <img src="https://dataease.io/images/dataSource/mariadb.jpg" alt="mariadb" border="0" width="155" height="107"/>  
+  <img src="https://dataease.io/images/dataSource/mariadb.jpg" alt="mariadb" border="0" width="155" height="107"/>
   <img src="https://dataease.io/images/dataSource/elasticsearch.jpg" alt="elasticsearch" border="0" width="155" height="107"/>
   <img src="https://dataease.io/images/dataSource/clickhouse.jpg" alt="clickhouse" border="0" width="155" height="107"/>
   <img src="https://dataease.io/images/dataSource/doris.jpg" alt="doris" border="0" width="155" height="107"/>
@@ -84,6 +84,7 @@ curl -sSL https://github.com/dataease/dataease/releases/latest/download/quick_st
 -   [在线文档](https://dataease.io/docs/)
 -   [教学视频](https://dataease.io/video.html)
 -   [在线学习班](https://edu.fit2cloud.com/page/2635362?navIndex=0)
+-   [Communication link failed 问题汇总](https://kb.fit2cloud.com/archives/104#heading)
 
 **加入微信交流群**
 
